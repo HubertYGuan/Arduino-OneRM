@@ -6,6 +6,7 @@
 !/.git*
 
 
-# Do not ignore libraries and main sketch
+# Do not ignore libraries, main sketch, circuit
 !/libraries/**
 !/OneRM_Calculator/**
+!/Circuit/**
