@@ -1,0 +1,11 @@
+# Ignore all files by default, but scan all directories.
+*
+!*/
+
+# Do not ignore git files in the root of the repo.
+!/.git*
+
+
+# Do not ignore libraries and main sketch
+!/libraries/**
+!/OneRM_Calculator/**
